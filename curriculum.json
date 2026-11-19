@@ -1,0 +1,49 @@
+{
+  "topic": "Renal tubulopathies",
+  "system": "Renal / urinary",
+  "specialty": "Nephrology",
+  "eciModule": "III — Formación clínica humana",
+  "typicalSubjects": [
+    "Fisiología",
+    "Fisiopatología",
+    "Patología médica",
+    "Nefrología",
+    "Pediatría",
+    "Farmacología"
+  ],
+  "mirRelevant": true,
+  "keywords_es": [
+    "tubulopatías",
+    "Fanconi",
+    "glucosuria renal",
+    "cistinuria",
+    "cistinosis",
+    "acidosis tubular renal",
+    "Bartter",
+    "Gitelman",
+    "Liddle",
+    "Gordon",
+    "pseudohipoaldosteronismo",
+    "diabetes insípida nefrogénica",
+    "transportadores"
+  ],
+  "keywords_en": [
+    "tubulopathies",
+    "Fanconi syndrome",
+    "renal glucosuria",
+    "cystinuria",
+    "cystinosis",
+    "renal tubular acidosis",
+    "Bartter",
+    "Gitelman",
+    "Liddle",
+    "Gordon",
+    "pseudohypoaldosteronism",
+    "nephrogenic diabetes insipidus",
+    "transporters"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ]
+}

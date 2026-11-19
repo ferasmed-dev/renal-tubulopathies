@@ -1,0 +1,9 @@
+{
+  "name": "renal-tubulopathies",
+  "version": "1.0.0",
+  "description": "Interactive map and simulator of the renal tubulopathies: every transporter of the nephron, what fails, the lab picture and the effect of treatment. ES/EN.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
